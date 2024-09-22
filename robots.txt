@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ixawe.github.io/oos/sitemap.oos.gz
